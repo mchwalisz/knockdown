@@ -31,7 +31,7 @@
 			<key>begin</key>
 			<string>(?&lt;!\s)---\n$</string>
 			<key>end</key>
-			<string>^---\s</string>
+			<string>^(---|...)\s</string>
 			<key>name</key>
 			<string>markup.raw.yaml.front-matter</string>
 			<key>patterns</key>
